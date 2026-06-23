@@ -10,10 +10,6 @@ A free online radio streaming platform for listening to some Ghanaian radio stat
 - Search stations by name or frequency
 - Filter stations by region or frequency or alphabetically
 
-## Version
-
-Current Release: v1.0
-
 ## Technology Used
 
 - HTML5
